@@ -30,7 +30,7 @@
 
 Linking/Pairing:
 
-- Head  [Here](https://github.com/MGTOPHAZ/ZENON-PAIR) and use that repo to pair the bot without scanning qr.
+- Head  [Here](https://zenon-ai-pairing.onrender.com/pair) and use that repo to pair the bot without scanning qr.
 
     
 <h2 align="center">   
