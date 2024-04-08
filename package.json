@@ -20,9 +20,9 @@
     "author": "Kai",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/kwendo204/ZENON-AL/issues"
+        "url": "https://github.com/wagwans/ZENON-AL/issues"
     },
-    "homepage": "https://github.com/kwendo20/ZENON-AL#readme",
+    "homepage": "https://github.com/wagwans/ZENON-AL#readme",
     "devDependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
